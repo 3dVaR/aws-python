@@ -1,1 +1,1 @@
-# aws-python
+Deploy a simple flask rrest in aws.
